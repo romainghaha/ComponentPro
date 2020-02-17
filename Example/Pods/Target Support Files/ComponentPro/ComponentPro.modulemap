@@ -1,0 +1,6 @@
+framework module ComponentPro {
+  umbrella header "ComponentPro-umbrella.h"
+
+  export *
+  module * { export * }
+}
